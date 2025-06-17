@@ -1,0 +1,57 @@
+/*Whole page*/
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f7f7f7;
+  margin: 0;
+  padding: 20px;
+}
+/* style main containe*/
+.container {
+  max-width: 600px;
+  margin: auto;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border: 1px solid #333;
+}
+/* style for title */
+h1 {
+  text-align: center;
+  color: #333;
+}
+/* style for form and input elements */
+form {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+form input,
+form select {
+  flex: 1 1 auto;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form button {
+  padding: 10px 16px;
+  font-size: 16px;
+  background-color: #38c950;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #1f28b1;
+}
+
+#guest-list {
+  list-style: none;
+  padding: 0;
+}
