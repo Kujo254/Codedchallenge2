@@ -1,4 +1,6 @@
 # Codedchallenge2
+## Live DEmo
+[Click here to view the app]( https://magenta-piroshki-e120de.netlify.app/ )
 # 🎉 Event Guest List Manager
 
 This is a simple and interactive web app for managing an event guest list. It allows users to add, categorize, and manage guests dynamically using JavaScript. No page reloads, just real-time updates directly in the browser.
