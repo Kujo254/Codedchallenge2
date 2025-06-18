@@ -1,5 +1,5 @@
 # Codedchallenge2
-## Live DEmo
+## Live Demo
 [Click here to view the app]( https://magenta-piroshki-e120de.netlify.app/ )
 # 🎉 Event Guest List Manager
 
